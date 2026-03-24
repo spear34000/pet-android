@@ -1,0 +1,17 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+    <item android:drawable="@drawable/cat_idle_1" android:duration="110"/>
+    <item android:drawable="@drawable/cat_idle_2" android:duration="110"/>
+    <item android:drawable="@drawable/cat_walk_1" android:duration="110"/>
+    <item android:drawable="@drawable/cat_walk_2" android:duration="110"/>
+    <item android:drawable="@drawable/cat_walk_3" android:duration="110"/>
+    <item android:drawable="@drawable/cat_walk_4" android:duration="110"/>
+    <item android:drawable="@drawable/cat_run_1" android:duration="110"/>
+    <item android:drawable="@drawable/cat_run_2" android:duration="110"/>
+    <item android:drawable="@drawable/cat_run_3" android:duration="110"/>
+    <item android:drawable="@drawable/cat_run_4" android:duration="110"/>
+    <item android:drawable="@drawable/cat_sit_1" android:duration="110"/>
+    <item android:drawable="@drawable/cat_sit_2" android:duration="110"/>
+    <item android:drawable="@drawable/cat_stretch" android:duration="110"/>
+    <item android:drawable="@drawable/cat_jump_up" android:duration="110"/>
+    <item android:drawable="@drawable/cat_jump_down" android:duration="110"/>
+</animation-list>

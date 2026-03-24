@@ -1,0 +1,20 @@
+<skin name="cat" width="180" height="150" hotspotX="90" hotspotY="120">
+  <motions default="idle">
+    <motion name="idle" loop="true">
+      <frame src="drawable/cat_idle_1" durationMs="140" />
+      <frame src="drawable/cat_idle_2" durationMs="140" />
+    </motion>
+    <motion name="walk" loop="true">
+      <frame src="drawable/cat_walk_1" durationMs="100" />
+      <frame src="drawable/cat_walk_2" durationMs="100" />
+      <frame src="drawable/cat_walk_3" durationMs="100" />
+      <frame src="drawable/cat_walk_4" durationMs="100" />
+    </motion>
+    <motion name="run" loop="true">
+      <frame src="drawable/cat_run_1" durationMs="80" />
+      <frame src="drawable/cat_run_2" durationMs="80" />
+      <frame src="drawable/cat_run_3" durationMs="80" />
+      <frame src="drawable/cat_run_4" durationMs="80" />
+    </motion>
+  </motions>
+</skin>
